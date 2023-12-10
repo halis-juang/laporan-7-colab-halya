@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  .profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    margin-right: 20px;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .info {
+    max-width: 400px;
+  }
+  
+  .skills {
+    background-color: #f4f4f4;
+    padding: 1em;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer {
+    background-color: #333;
+    color: rebeccapurple;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
